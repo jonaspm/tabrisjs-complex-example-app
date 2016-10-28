@@ -14,6 +14,6 @@ npm install
 ```
 Finally just execute the server:
 ```
-npm install
+hs
 ```
 To try the app in your device, you have install the Tabris.js Developer App available at Google's Play Store and Apple's App Store.
