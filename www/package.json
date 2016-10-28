@@ -1,0 +1,17 @@
+{
+  "name": "Example App",
+  "main": "app.js",
+  "version": "1.0.0",
+  "author": "Jonas Perusquia Morales <jonaspm_99@outlook.com>",
+  "dependencies": {
+    "tabris": "^1.10.0",
+    "tabris-plugin-maps": "^2.0.1"
+  },
+  "description": "This is an example app for Tabrisjs.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonaspm/tabrisjs-complex-example-app.git"
+  },
+  "private": true
+}

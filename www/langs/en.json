@@ -1,0 +1,58 @@
+{
+	"#index_page": {
+		"title": "Example App"
+	},
+	"#settings_page":
+	{
+		"title": "Settings"
+	},
+	"#lang_picker": {
+		"items": [
+			{
+				"id": "null",
+				"name": "Change language"
+			},
+			{
+				"id": "es",
+				"name": "Spanish"
+			},
+			{
+				"id": "en",
+				"name": "English"
+			}
+		]
+	},
+	"#settings_toast": {
+		"text": "Restart the app for changes to take effect."
+	},
+	"#another_page": {
+		"title": "Another Page"
+	},
+	"#q1": {
+		"text": "What is your location?"
+	},
+	"#r1ck": {
+		"text": "Use map location?"
+	},
+	"#text_lat": {
+		"text": "Latitude:"
+	},
+	"#text_lon": {
+		"text": "Longitude:"
+	},
+	"#map_page": {
+		"title": "Map"
+	},
+	"#open_map_btn": {
+		"text": "Open Map"
+	},
+	"#description_txt": {
+		"text": "Nothing to show<br></br><big>:'(</big>"
+	},
+	"#main_btn": {
+		"text": "Click Me!"
+	},
+	"#input_txt": {
+		"message": "Write something!"
+	}
+}

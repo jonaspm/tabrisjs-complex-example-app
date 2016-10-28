@@ -1,0 +1,58 @@
+{
+	"#index_page": {
+		"title": "App Ejemplo"
+	},
+	"#settings_page":
+	{
+		"title": "Configuración"
+	},
+	"#lang_picker": {
+		"items": [
+			{
+				"id": "null",
+				"name": "Cambiar Lenguaje"
+			},
+			{
+				"id": "es",
+				"name": "Español"
+			},
+			{
+				"id": "en",
+				"name": "Inglés"
+			}
+		]
+	},
+	"#settings_toast": {
+		"text": "Reinice la aplicación para que los cambios surtan efecto."
+	},
+	"#another_page": {
+		"title": "Reportar"
+	},
+	"#q1": {
+		"text": "¿Cual es tu ubicación?"
+	},
+	"#r1ck": {
+		"text": "¿Usar ubicación del mapa?"
+	},
+	"#text_lat": {
+		"text": "Latitud:"
+	},
+	"#text_lon": {
+		"text": "Longitud:"
+	},
+	"#map_page": {
+		"title": "Mapa"
+	},
+	"#open_map_btn": {
+		"text": "Abrir Mapa"
+	},
+	"#description_txt": {
+		"text": "Nada para mostrar<br></br><big>:'(</big>"
+	},
+	"#main_btn": {
+		"text": "¡Presióname!"
+	},
+	"#input_txt": {
+		"message": "¡Escribe algo!"
+	}
+}
