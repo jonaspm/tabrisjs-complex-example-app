@@ -7,7 +7,13 @@ To run this example app you have to do:
 ```
 npm install http-server -g
 cd www
-hs
 ```
-This will open a server for the app.
-Then access it with the Tabris.js Developer App available at Google's Play Store and Apple's App Store.
+Next we have to install all dependencies by doing:
+```
+npm install
+```
+Finally just execute the server:
+```
+npm install
+```
+To try the app in your device, you have install the Tabris.js Developer App available at Google's Play Store and Apple's App Store.
