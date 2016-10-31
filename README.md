@@ -11,7 +11,9 @@ This example app includes the following features:
 For this example app to work, you need a Google Maps API Key then replace **YOUR_API_KEY_HERE** inside **config.xml**
 
 ### Trouble ###
-If you have trouble while running the app, it might be because of missing dependencies.. try to build the app locally or use cloud build service from Tabrisjs.com
+If you have trouble while running the app, it might be because of missing dependencies...
+
+Use the cloud build service from Tabrisjs.com or do a local build (follow the build instructions available here: [TabrisJS Local Build](https://tabrisjs.com/documentation/latest/local-build)).
 
 ## Run ##
 To run this example app you have to do:
