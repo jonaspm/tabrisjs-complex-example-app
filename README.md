@@ -13,7 +13,7 @@ For this example app to work, you need a Google Maps API Key then replace **YOUR
 ### Trouble ###
 If you have trouble while running the app, it might be because of missing dependencies...
 
-Use the cloud build service from Tabrisjs.com or do a local build (follow the build instructions available here: [TabrisJS Local Build](https://tabrisjs.com/documentation/latest/local-build)).
+Use the cloud build service from Tabrisjs.com or do a local build (follow the build instructions available here: [TabrisJS Local Build](https://tabrisjs.com/documentation/1.10/local-build)).
 
 ## Run ##
 To run this example app you have to do:
