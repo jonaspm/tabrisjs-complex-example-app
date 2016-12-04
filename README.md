@@ -1,5 +1,5 @@
 # tabrisjs-complex-example-app #
-
+<img src="https://qmyqug.by3302.livefilestore.com/y3mUdbz-h1Cr-CYF_QYkgwEWWi8bayNc9hg-4JnkiCHdyxE5Frt0ZHHiluQtvw7RP2qjqZYuUSWUVHLdTjDVEHQCQEkGteB1GYrU5rB7vpH3Vl6AEJXJM9uVT46WF3b4B9GA52rF36nyO6W2gJGygNiD4Is1b7he-Q5E9hGa3kVrmY?width=1200&height=1000&cropmode=none" width="600" height="500" />
 ## Features ##
 This example app includes the following features:
 -    Multi-language (i18n)
